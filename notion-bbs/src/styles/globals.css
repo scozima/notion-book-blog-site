@@ -85,4 +85,14 @@ a {
     color-scheme: dark;
   }
 }
+p,
+a,
+span,
+small {
+  letter-spacing: 0.1em;
+}
+
+.w-inherit {
+  width: inherit;
+}
 /*# sourceMappingURL=globals.css.map */

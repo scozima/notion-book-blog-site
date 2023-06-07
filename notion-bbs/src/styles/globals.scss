@@ -96,3 +96,14 @@ a {
     color-scheme: dark;
   }
 }
+
+p,
+a,
+span,
+small {
+  letter-spacing: .1em;
+}
+
+.w-inherit {
+  width: inherit;
+}
